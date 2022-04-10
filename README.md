@@ -1,3 +1,2 @@
 # House_Rocket
-This project aims to identify good real estate investments using real home sales data in the Seattle region.
-
+Este projeto visa identificar bons investimentos no ramo imobiliário usando uma base de dados de vendas reais de imóveis na regiao de Seatle, EUA.
