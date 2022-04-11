@@ -1,5 +1,5 @@
 <h1 align="center"> Analytics House Rocket </h1> 
-<img align="center"  height="450" width="1000" src="https://previews.123rf.com/images/ideyweb/ideyweb1709/ideyweb170900447/87108766-agencia-de-bienes-ra%C3%ADces-mano-con-llaves-en-el-fondo-vendiendo-la-casa-.jpg" >
+<img align="center"  height="450" width="600" src="https://previews.123rf.com/images/ideyweb/ideyweb1709/ideyweb170900447/87108766-agencia-de-bienes-ra%C3%ADces-mano-con-llaves-en-el-fondo-vendiendo-la-casa-.jpg" >
 
 ## 1.0 Resumo
 
