@@ -27,18 +27,9 @@
 
 <b>Step 04.</b> Analyse the variables and its correlations such that the proposed question will be answered;
 
-<b>Step 05.</b> Criate a Machine Learning model that, once answered the initial questions for a dataset, predict good investiments to new data;
+<b>Step 05.</b> Criate a Machine Learning model that, once answered the initial questions for a dataset, can predict good investiments to new data;
 
-<b>Step 06.</b> Dashboard criation using Streamlit
-
-
-
-<b>Step 04.</b> Analisar as diferentes variáveis e suas correlações de forma a responder as perguntas propostas
-
-<b>Step 05.</b> Criar um modelo de Machine Learning que, uma vez respondidas as perguntas iniciais para uma base de dados, consiga fazer a previsão de bons investimentos para novos dados
-
-<b>Step 06.</b> Criação de um dashboard através do Streamlit
-
+<b>Step 06.</b> Dashboard criation through Streamlit
 
 
 ## 5.0 Solution 
@@ -50,15 +41,13 @@
 - Heroku
 
 <b>- Final product?</b>
-Interactive Dashboard which can be virtual acessed from anywhere.
+Interactive Dashboard which can be virtual accessed from anywhere.
 Um Dashboard interativo que pode ser acessado virtualmente de qualquer local
 
 
 ## 6.0 Conclusion
 
-This project possibilited the learn and the experience of some process and tools, like: exploratory data analisys, data app criation using Streamlit and online deploy with Heroku and some Machine Learning algorithms implementation.
-
-Este projeto possibilitou o aprender e o experienciar de algumas ferramentas e processos, como: análise exploratória de dados, criação de um data app através do Streamlit e disponibilização online pelo Heroku, e implementação de alguns algoritmos de Machine Learning. 
+This project made it possible to learn and experience some tools and processes, such as: exploratory data analisys, data app criation using Streamlit and online availability with Heroku, and some Machine Learning algorithms implementation.
 
 
 ## 7.0 Next steps:
