@@ -7,55 +7,63 @@
 
 ## 2.0 Context
 
-<p> Este conjunto de dados contém informações de vendas de casas que ocorreram na região de Seattle. Os imóveis foram negociados nos anos de 2014 e 2015. </p>
-
+<p> This dataset contains information on home sales that ocurred in Seattle area. The properties were traded in the years 2014 and 2015. 
+ 
 ## 3.0 Business Challenge
 
-<p> O objetivo deste projeto é encontrar bons investimentos a partir de um conjunto de dados da empresa House Rocket.
- 
-1.  Quais imóveis devem ser adquiridos e a que preço?
-2.  Uma vez comprado o imóvel, qual o deve ser o preço de venda?</p>
+<p> The objective of this project is to find good investiments from a dataset of the House Rocket company. 
+  
+1.  Which properties should be acquired and at what price?
+2.  Once acquired the propertie, what should the sale price be?</p>
+
 
 ## 4.0   Solution Strategy:
 
-<b>Step 01.</b> Data collection: Download dataset from the Kaggle website and collect geographic locations with the API.
+<b>Step 01.</b> Colect the dataset from Kaggle;
 
-<b>Step 02.</b> Description of the data: In this stage the objective is to use statistical metrics to identify data outside the scope of the business.
+<b>Step 02.</b> Clean, organize and, through descriptive statistics, understand the data at hand;
 
-<b>Step 03.</b> Feature Engineering: derive new attributes based on the original variables to better define the phenomenon.
+<b>Step 03.</b> Define new relevant variables for data analysis;
 
-<b>Step 04.</b> Exploratory Data Analysis: For this step, the objective is to explore the data to better understand the impact of variables on model learning and find insights.
+<b>Step 04.</b> Analyse the variables and its correlations such that the proposed question will be answered;
 
-<b>Step 05.</b> Data presentation: Created a dashboard using streamlit.
+<b>Step 05.</b> Criate a Machine Learning model that, once answered the initial questions for a dataset, predict good investiments to new data;
+
+<b>Step 06.</b> Dashboard criation using Streamlit
+
+
+
+<b>Step 04.</b> Analisar as diferentes variáveis e suas correlações de forma a responder as perguntas propostas
+
+<b>Step 05.</b> Criar um modelo de Machine Learning que, uma vez respondidas as perguntas iniciais para uma base de dados, consiga fazer a previsão de bons investimentos para novos dados
+
+<b>Step 06.</b> Criação de um dashboard através do Streamlit
+
+
 
 ## 5.0 Solution 
 
-<b>- Who is the project stakeholder?</b> House Rocket's CEO
-
 <b>Used tools?</b>
 - Python 3.8
-- Jupyter Notebook
-- Visual code
+- Pycharm Community
+- Streamlit
+- Heroku
 
 <b>- Final product?</b>
-Dashboard in the streamlit, where the CEO can access the analysis and simulate the purchase of a house.
+Interactive Dashboard which can be virtual acessed from anywhere.
+Um Dashboard interativo que pode ser acessado virtualmente de qualquer local
 
-<b>- What is the format?</b>
-- <b>Problem type?</b> Data analysis 
-- <b>How we will deliver?</b> Dashboard at streamlit 
 
 ## 6.0 Conclusion
 
-In this project, I acquired some knowledge such as creating hypotheses of business, collecting data from an API, building a page in the streamlit and manipulating the data.
+This project possibilited the learn and the experience of some process and tools, like: exploratory data analisys, data app criation using Streamlit and online deploy with Heroku and some Machine Learning algorithms implementation.
+
+Este projeto possibilitou o aprender e o experienciar de algumas ferramentas e processos, como: análise exploratória de dados, criação de um data app através do Streamlit e disponibilização online pelo Heroku, e implementação de alguns algoritmos de Machine Learning. 
+
 
 ## 7.0 Next steps:
 
-- [x] Add requirements.txt
-- [ ] Record video of the solution
-- [x] Conclusion Project
-- [ ] Translate the notebook
+- [ ] Implement others ML algorithms
+- [ ] Criate a profit metric to avaliate the ML predictions
 
-## 8.0  References
 
-- [Plotly](https://plotly.com/)
-- [Course Link](https://sejaumdatascientist.com/como-ser-um-data-scientist/) 
