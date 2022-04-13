@@ -42,7 +42,6 @@
 
 <b>- Final product?</b>
 Interactive Dashboard which can be virtual accessed from anywhere.
-Um Dashboard interativo que pode ser acessado virtualmente de qualquer local
 
 
 ## 6.0 Conclusion
