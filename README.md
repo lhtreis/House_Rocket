@@ -54,4 +54,8 @@ This project made it possible to learn and experience some tools and processes, 
 - [ ] Implement others ML algorithms
 - [ ] Criate a profit metric to avaliate the ML predictions
 
+## 8.0  References
+
+- [Course Link](https://sejaumdatascientist.com/como-ser-um-data-scientist/) 
+
 
