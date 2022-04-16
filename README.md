@@ -36,6 +36,7 @@
 
 <b>Used tools?</b>
 - Python 3.8
+- - A
 - Pycharm Community
 - Streamlit
 - Heroku
