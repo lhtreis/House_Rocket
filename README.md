@@ -4,6 +4,7 @@
 ## 1.0 Resumo
 
 - [Access Streamlit dashboard](link heroku)
+- [Analysis Notebook](https://github.com/lhtreis/House_Rocket/blob/main/House%20Rocket.ipynb)
 
 ## 2.0 Context
 
@@ -52,8 +53,10 @@ This project made it possible to learn and experience some tools and processes, 
 
 ## 7.0 Next steps:
 
-- [ ] Implement others ML algorithms
-- [ ] Criate a profit metric to avaliate the ML predictions
+- [ ] Improve the descriptive analysis
+- [ ] Criate a profit metric to avaliate the ML predictions for sales
+- [ ] Optimize cut-off point for ML classification model
+- [ ] Find the best features to optimize the ML model
 
 ## 8.0  References
 
