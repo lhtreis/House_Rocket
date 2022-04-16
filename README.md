@@ -36,7 +36,7 @@
 
 <b>Used tools?</b>
 - Python 3.8
-- - A
+ - Statistical techniques for descriptve analysis, implementation of various ML algorithms through cross validation with ROC-AUC metrics 
 - Pycharm Community
 - Streamlit
 - Heroku
