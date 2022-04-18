@@ -3,7 +3,7 @@
 
 ## 1.0 Resumo
 
-- [Access Streamlit dashboard](link heroku)
+- [Access Streamlit dashboard](https://houserocketapp.herokuapp.com/)
 - [Analysis Notebook](https://github.com/lhtreis/House_Rocket/blob/main/House%20Rocket.ipynb)
 
 ## 2.0 Context
